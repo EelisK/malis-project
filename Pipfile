@@ -11,6 +11,9 @@ scipy = "*"
 matplotlib = "*"
 ipykernel = "*"
 seaborn = "*"
+xgboost = "*"
+jupyter = "*"
+graphviz = "*"
 
 [dev-packages]
 autopep8 = "*"
