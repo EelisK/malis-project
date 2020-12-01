@@ -11,13 +11,21 @@ scipy = "*"
 matplotlib = "*"
 ipykernel = "*"
 seaborn = "*"
+xgboost = "*"
+jupyter = "*"
+graphviz = "*"
+tensorflow = "*"
+importlib-metadata = "==2.1.0"
 
 [dev-packages]
 autopep8 = "*"
 pylint = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.7"
 
 [scripts]
 start = "jupyter notebook"
+
+[pipenv]
+allow_prereleases = true

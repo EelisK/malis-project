@@ -4,6 +4,7 @@
 
 - `pipenv`
 - `python 3.8`
+- `graphviz`
 
 ### Useful commands
 
