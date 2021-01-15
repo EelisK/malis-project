@@ -3,8 +3,9 @@
 ### Requirement:
 
 - `pipenv`
-- `python 3.8`
+- `python 3.7`
 - `graphviz`
+- `pydot`
 
 ### Useful commands
 
